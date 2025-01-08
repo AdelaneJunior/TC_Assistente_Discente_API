@@ -92,11 +92,12 @@ The diagrams created for the system's development can be found in the following 
     
 ## Introdução
 
-O projeto propõe a criação de uma **plataforma digital** voltada inicialmente para os alunos de instituições de ensino, com o objetivo de facilitar o acesso às informações acadêmicas de maneira rápida e eficiente. A plataforma foi projetada para permitir consultas através de comandos de voz e texto. Algumas das funcionalidades incluem:
+O projeto propõe a criação de uma **plataforma digital** utilizando assistentes digitais, voltada inicialmente para os alunos de instituições de ensino, com o objetivo de facilitar o acesso às informações acadêmicas de maneira rápida e eficiente. A plataforma é projetada para permitir consultas através de comandos de voz e texto, e de forma a simplificar a adição de novos serviços e expansão para novos clientes. Algumas das funcionalidades incluem:
 
 - Consulta de **horários de aulas**
 - Consulta de **notas**
 - Verificação de **faltas**
+- Solicitação de Histórico Acadêmico 
 
 ## Expansão Futura
 
